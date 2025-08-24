@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "R+O7r54u2KU=",
+  "dgSpecHash": "uG5h00cgMCo=",
   "success": true,
   "projectFilePath": "C:\\Users\\email\\source\\repos\\alirezark70\\FlowGuardian.NET\\FlowGuardian.NET\\02.Application\\FlowGuardian.NET.ApplicationService\\FlowGuardian.NET.ApplicationService.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\email\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
+    "C:\\Users\\email\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.8\\microsoft.extensions.caching.abstractions.9.0.8.nupkg.sha512",
+    "C:\\Users\\email\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.8\\microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512",
+    "C:\\Users\\email\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.8\\microsoft.extensions.logging.abstractions.9.0.8.nupkg.sha512",
+    "C:\\Users\\email\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.8\\microsoft.extensions.primitives.9.0.8.nupkg.sha512"
+  ],
   "logs": []
 }
