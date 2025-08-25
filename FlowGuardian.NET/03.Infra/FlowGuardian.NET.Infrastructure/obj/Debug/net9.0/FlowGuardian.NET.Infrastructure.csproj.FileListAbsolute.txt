@@ -10,3 +10,9 @@ C:\Users\email\source\repos\alirezark70\FlowGuardian.NET\FlowGuardian.NET\03.Inf
 C:\Users\email\source\repos\alirezark70\FlowGuardian.NET\FlowGuardian.NET\03.Infra\FlowGuardian.NET.Infrastructure\obj\Debug\net9.0\refint\FlowGuardian.NET.Infrastructure.dll
 C:\Users\email\source\repos\alirezark70\FlowGuardian.NET\FlowGuardian.NET\03.Infra\FlowGuardian.NET.Infrastructure\obj\Debug\net9.0\FlowGuardian.NET.Infrastructure.pdb
 C:\Users\email\source\repos\alirezark70\FlowGuardian.NET\FlowGuardian.NET\03.Infra\FlowGuardian.NET.Infrastructure\obj\Debug\net9.0\ref\FlowGuardian.NET.Infrastructure.dll
+C:\Users\email\source\repos\alirezark70\FlowGuardian.NET\FlowGuardian.NET\03.Infra\FlowGuardian.NET.Infrastructure\bin\Debug\net9.0\FlowGuardian.NET.ApplicationService.dll
+C:\Users\email\source\repos\alirezark70\FlowGuardian.NET\FlowGuardian.NET\03.Infra\FlowGuardian.NET.Infrastructure\bin\Debug\net9.0\FlowGuardian.NET.Domain.dll
+C:\Users\email\source\repos\alirezark70\FlowGuardian.NET\FlowGuardian.NET\03.Infra\FlowGuardian.NET.Infrastructure\bin\Debug\net9.0\FlowGuardian.NET.Domain.pdb
+C:\Users\email\source\repos\alirezark70\FlowGuardian.NET\FlowGuardian.NET\03.Infra\FlowGuardian.NET.Infrastructure\bin\Debug\net9.0\FlowGuardian.NET.ApplicationService.pdb
+C:\Users\email\source\repos\alirezark70\FlowGuardian.NET\FlowGuardian.NET\03.Infra\FlowGuardian.NET.Infrastructure\obj\Debug\net9.0\FlowGuardian.NET.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\email\source\repos\alirezark70\FlowGuardian.NET\FlowGuardian.NET\03.Infra\FlowGuardian.NET.Infrastructure\obj\Debug\net9.0\FlowGuar.6AECA9FA.Up2Date

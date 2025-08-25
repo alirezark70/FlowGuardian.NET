@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "jRsby4fUTEk=",
+  "dgSpecHash": "unTVxiyaxYY=",
   "success": true,
   "projectFilePath": "C:\\Users\\email\\source\\repos\\alirezark70\\FlowGuardian.NET\\FlowGuardian.NET\\04.Endpint\\FlowGuardian.NET.RestApi\\FlowGuardian.NET.RestApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\email\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\email\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\email\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
   "logs": []
 }
