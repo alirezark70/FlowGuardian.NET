@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlowGuardian.NET.ApplicationService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e9d9517b0da1307bdbab56224c58835da34979a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50bb71b7250c0db1d1f60498bb415b284b361e3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlowGuardian.NET.ApplicationService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlowGuardian.NET.ApplicationService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

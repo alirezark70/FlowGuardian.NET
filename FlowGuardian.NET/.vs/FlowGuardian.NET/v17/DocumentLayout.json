@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\email\\source\\repos\\alirezark70\\FlowGuardian.NET\\FlowGuardian.NET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8DB0710-D202-4C93-9CF7-3A2FECD0241B}|03.Infra\\FlowGuardian.NET.Infrastructure\\FlowGuardian.NET.Infrastructure.csproj|c:\\users\\email\\source\\repos\\alirezark70\\flowguardian.net\\flowguardian.net\\03.infra\\flowguardian.net.infrastructure\\services\\ratelimitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8DB0710-D202-4C93-9CF7-3A2FECD0241B}|03.Infra\\FlowGuardian.NET.Infrastructure\\FlowGuardian.NET.Infrastructure.csproj|solutionrelative:03.infra\\flowguardian.net.infrastructure\\services\\ratelimitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8DB0710-D202-4C93-9CF7-3A2FECD0241B}|03.Infra\\FlowGuardian.NET.Infrastructure\\FlowGuardian.NET.Infrastructure.csproj|c:\\users\\email\\source\\repos\\alirezark70\\flowguardian.net\\flowguardian.net\\03.infra\\flowguardian.net.infrastructure\\services\\geolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DB0710-D202-4C93-9CF7-3A2FECD0241B}|03.Infra\\FlowGuardian.NET.Infrastructure\\FlowGuardian.NET.Infrastructure.csproj|solutionrelative:03.infra\\flowguardian.net.infrastructure\\services\\geolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RateLimitService.cs",
-              "DocumentMoniker": "C:\\Users\\email\\source\\repos\\alirezark70\\FlowGuardian.NET\\FlowGuardian.NET\\03.Infra\\FlowGuardian.NET.Infrastructure\\Services\\RateLimitService.cs",
-              "RelativeDocumentMoniker": "03.Infra\\FlowGuardian.NET.Infrastructure\\Services\\RateLimitService.cs",
-              "ToolTip": "C:\\Users\\email\\source\\repos\\alirezark70\\FlowGuardian.NET\\FlowGuardian.NET\\03.Infra\\FlowGuardian.NET.Infrastructure\\Services\\RateLimitService.cs",
-              "RelativeToolTip": "03.Infra\\FlowGuardian.NET.Infrastructure\\Services\\RateLimitService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "Title": "GeoLocationService.cs",
+              "DocumentMoniker": "C:\\Users\\email\\source\\repos\\alirezark70\\FlowGuardian.NET\\FlowGuardian.NET\\03.Infra\\FlowGuardian.NET.Infrastructure\\Services\\GeoLocationService.cs",
+              "RelativeDocumentMoniker": "03.Infra\\FlowGuardian.NET.Infrastructure\\Services\\GeoLocationService.cs",
+              "ToolTip": "C:\\Users\\email\\source\\repos\\alirezark70\\FlowGuardian.NET\\FlowGuardian.NET\\03.Infra\\FlowGuardian.NET.Infrastructure\\Services\\GeoLocationService.cs",
+              "RelativeToolTip": "03.Infra\\FlowGuardian.NET.Infrastructure\\Services\\GeoLocationService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T16:53:10.693Z",
+              "WhenOpened": "2025-08-27T18:06:50.051Z",
               "EditorCaption": ""
             }
           ]
