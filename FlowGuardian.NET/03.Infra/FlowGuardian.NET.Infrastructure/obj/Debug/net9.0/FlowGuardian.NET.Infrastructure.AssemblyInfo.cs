@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlowGuardian.NET.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b32d69e617bd7b5f43a94fe96ff1c41cedff3d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aac9aaa5b4bb62b9a79b9a2818d24099ef86d1df")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlowGuardian.NET.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlowGuardian.NET.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

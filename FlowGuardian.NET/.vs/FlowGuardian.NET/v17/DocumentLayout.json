@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\email\\source\\repos\\alirezark70\\FlowGuardian.NET\\FlowGuardian.NET\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E8DB0710-D202-4C93-9CF7-3A2FECD0241B}|03.Infra\\FlowGuardian.NET.Infrastructure\\FlowGuardian.NET.Infrastructure.csproj|c:\\users\\email\\source\\repos\\alirezark70\\flowguardian.net\\flowguardian.net\\03.infra\\flowguardian.net.infrastructure\\services\\suspiciousdetectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DB0710-D202-4C93-9CF7-3A2FECD0241B}|03.Infra\\FlowGuardian.NET.Infrastructure\\FlowGuardian.NET.Infrastructure.csproj|solutionrelative:03.infra\\flowguardian.net.infrastructure\\services\\suspiciousdetectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051AC7E4-F3AF-4C5C-B9E4-C7C9B997D85D}|01.Core\\FlowGuardian.NET.Domain\\FlowGuardian.NET.Domain.csproj|c:\\users\\email\\source\\repos\\alirezark70\\flowguardian.net\\flowguardian.net\\01.core\\flowguardian.net.domain\\interfaces\\isuspiciousdetectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051AC7E4-F3AF-4C5C-B9E4-C7C9B997D85D}|01.Core\\FlowGuardian.NET.Domain\\FlowGuardian.NET.Domain.csproj|solutionrelative:01.core\\flowguardian.net.domain\\interfaces\\isuspiciousdetectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8DB0710-D202-4C93-9CF7-3A2FECD0241B}|03.Infra\\FlowGuardian.NET.Infrastructure\\FlowGuardian.NET.Infrastructure.csproj|c:\\users\\email\\source\\repos\\alirezark70\\flowguardian.net\\flowguardian.net\\03.infra\\flowguardian.net.infrastructure\\services\\geolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8DB0710-D202-4C93-9CF7-3A2FECD0241B}|03.Infra\\FlowGuardian.NET.Infrastructure\\FlowGuardian.NET.Infrastructure.csproj|solutionrelative:03.infra\\flowguardian.net.infrastructure\\services\\geolocationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,12 +35,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SuspiciousDetectionService.cs",
+              "DocumentMoniker": "C:\\Users\\email\\source\\repos\\alirezark70\\FlowGuardian.NET\\FlowGuardian.NET\\03.Infra\\FlowGuardian.NET.Infrastructure\\Services\\SuspiciousDetectionService.cs",
+              "RelativeDocumentMoniker": "03.Infra\\FlowGuardian.NET.Infrastructure\\Services\\SuspiciousDetectionService.cs",
+              "ToolTip": "C:\\Users\\email\\source\\repos\\alirezark70\\FlowGuardian.NET\\FlowGuardian.NET\\03.Infra\\FlowGuardian.NET.Infrastructure\\Services\\SuspiciousDetectionService.cs",
+              "RelativeToolTip": "03.Infra\\FlowGuardian.NET.Infrastructure\\Services\\SuspiciousDetectionService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T18:41:35.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISuspiciousDetectionService.cs",
+              "DocumentMoniker": "C:\\Users\\email\\source\\repos\\alirezark70\\FlowGuardian.NET\\FlowGuardian.NET\\01.Core\\FlowGuardian.NET.Domain\\Interfaces\\ISuspiciousDetectionService.cs",
+              "RelativeDocumentMoniker": "01.Core\\FlowGuardian.NET.Domain\\Interfaces\\ISuspiciousDetectionService.cs",
+              "ToolTip": "C:\\Users\\email\\source\\repos\\alirezark70\\FlowGuardian.NET\\FlowGuardian.NET\\01.Core\\FlowGuardian.NET.Domain\\Interfaces\\ISuspiciousDetectionService.cs",
+              "RelativeToolTip": "01.Core\\FlowGuardian.NET.Domain\\Interfaces\\ISuspiciousDetectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T18:41:11.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GeoLocationService.cs",
               "DocumentMoniker": "C:\\Users\\email\\source\\repos\\alirezark70\\FlowGuardian.NET\\FlowGuardian.NET\\03.Infra\\FlowGuardian.NET.Infrastructure\\Services\\GeoLocationService.cs",
               "RelativeDocumentMoniker": "03.Infra\\FlowGuardian.NET.Infrastructure\\Services\\GeoLocationService.cs",
               "ToolTip": "C:\\Users\\email\\source\\repos\\alirezark70\\FlowGuardian.NET\\FlowGuardian.NET\\03.Infra\\FlowGuardian.NET.Infrastructure\\Services\\GeoLocationService.cs",
               "RelativeToolTip": "03.Infra\\FlowGuardian.NET.Infrastructure\\Services\\GeoLocationService.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T18:06:50.051Z",
               "EditorCaption": ""
